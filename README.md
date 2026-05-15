@@ -122,18 +122,18 @@ RESTful APIs using Node.js, Express, and ASP.NET Core.
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com" target="blank">
+<a href="https://www.linkedin.com/in/youssef-atef-120907247/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:your-email@example.com" target="blank">
+<a href="mailto:yatef57@gmail.com" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
 * GitHub: [https://github.com/YOUSSEF-33](https://github.com/YOUSSEF-33)
-* LinkedIn: Add your LinkedIn profile here
-* Email: Add your professional email here
+* LinkedIn: [https://www.linkedin.com/in/youssef-atef-120907247/](https://www.linkedin.com/in/youssef-atef-120907247/)
+* Email: [yatef57@gmail.com](mailto:yatef57@gmail.com)
 
 ---
 
