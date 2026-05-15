@@ -59,7 +59,7 @@
 ## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ## 📱 Mobile
